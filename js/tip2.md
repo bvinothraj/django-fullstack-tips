@@ -1,5 +1,14 @@
+---
+layout: default
+title: Django Backend Tips
+description: A knowledge-sharing platform
+---
+
 # How to sort strings in foreign languages?
 
+_B Vinoth Raj_  
+_Jan 20, 2022_  
+  
 Sorting an array of strings in English language is prettry straightforward: use the Array's sort function.
 But for non-English languages like German, Spanish, etc., it may produce incorrect results.  
   
