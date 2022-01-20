@@ -21,4 +21,4 @@ _Jan 20, 2021_
 ```markdown
 [back](./)
 ```
-
+- Finally, add the tip in the index.md
