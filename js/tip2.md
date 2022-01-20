@@ -34,3 +34,5 @@ spanishWords.sort(new Intl.Collator('es').compare);
 NOTE: The Intl object is the namespace for the ECMAScript Internationalization API, which provides language sensitive string comparison, number formatting, and date and time formatting. 
 
 [Collator in MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/Collator)
+
+[back](../)
