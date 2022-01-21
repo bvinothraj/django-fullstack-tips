@@ -43,10 +43,10 @@ animation: typewriter 2s steps(15) infinite;
 ```
 The @keyframes rule specifies the animation code.  
 We use an animation rule called "typewriter".  
-The animation is created by gradually changing from one set of CSS styles to another using the "from" and "to".
-The animation duration is of 2s. 
-steps(15) is the animation-timing-function that specifies the number of intervals in the function which is 15.
-The animation-iteration-count is infinite. So, if you want to iterate specific times you can specify an integer.
+The animation is created by gradually changing from one set of CSS styles to another using the "from" and "to".  
+The animation duration is of 2s.  
+steps(15) is the animation-timing-function that specifies the number of intervals in the function which is 15.  
+The animation-iteration-count is infinite. So, if you want to iterate specific times you can specify an integer.  
 
 [Try in CodePen](https://codepen.io/bvinraj/pen/GRMbQdg)
 
