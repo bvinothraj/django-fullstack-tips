@@ -5,6 +5,9 @@ description: A knowledge-sharing platform
 ---
 # All Tips
 
+## CSS
+- [How to implement typewriting effect](css/tip1.md)
+
 ## JS
 
 - [How to check execution time of a code block?](./js/tip1.md)
