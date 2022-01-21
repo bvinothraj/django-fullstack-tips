@@ -97,7 +97,14 @@ Using CSS function **var** and custom property "--characters" we can create the 
   }
 }
 ```
+And the Javascript code is this:
+```
+const typeWriter = document.getElementById('typewriter-text');
+const text = 'Lorem ipsum dolor sit amet.';
 
+typeWriter.innerHTML = text;
+typeWriter.style.setProperty('--characters', text.length);
+```
 [Try in CodePen](https://codepen.io/bvinraj/pen/vYeqepq)
 
 [back](../)
