@@ -52,7 +52,7 @@ The animation-iteration-count is infinite. So, if you want to iterate specific t
 
 **Option 2: Using custom property**  
 This option requires use of Javascript to set the text to custom property.  
-Using CSS funciton **var** and custom property "--characters" we can create the same effect.
+Using CSS function **var** and custom property "--characters" we can create the same effect.
 
   
   ![Typewriting effect](../images/type3.gif)  
