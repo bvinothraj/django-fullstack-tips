@@ -5,7 +5,7 @@ description: A knowledge-sharing platform
 ---
 # How to debug your django application using django-debug-toolbar
 
-_Pardeep_
+_Pardeep_  
 _Jan 20, 2022_
 
 The Django Debug Toolbar allows you to view all SQL queries performed while rendering view and you can also view stacktrace for any of them.
