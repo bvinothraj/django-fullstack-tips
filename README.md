@@ -19,6 +19,7 @@ _Jan 20, 2021_
 - Include at the end any references, if needed
 - The last line will be a "back" link to home page
 ```markdown
-[back](./)
+[back](./)  // if at same level as index.md
+[back](../) // if tip is inside a category directory
 ```
 - Finally, add the tip in the index.md
