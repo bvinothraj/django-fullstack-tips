@@ -14,7 +14,7 @@ There can be numerous ways one may achieve the typewriting effect. Here are two 
 **Option 1: Quick and Easy way**  
 This option is as easy as adding a class to the element containing the text. There is no Javascript.  
   
-  ![Typewriting effect](../images/type2.gif)  
+  ![Typewriting effect](../images/type2.gif)
   
 We will use CSS animation to achieve the typewriting effect.  
 Here is the class that defines the effect: 
@@ -48,7 +48,7 @@ The *animation duration* is of 2s.
 *steps(15)* is the *animation-timing-function* that specifies the number of intervals in the function which is 15.  
 The *animation-iteration-count* is *infinite*. So, if you want to iterate specific times you can specify an integer.  
 
-[Try in CodePen](https://codepen.io/bvinraj/pen/GRMbQdg)
+[Try in CodePen](https://codepen.io/bvinraj/pen/GRMbQdg){:target="\_blank"}. 
 
 **Option 2: Using custom property**  
 This option requires use of Javascript to set the text to custom property.  
@@ -106,6 +106,6 @@ const text = 'Lorem ipsum dolor sit amet.';
 typeWriter.innerHTML = text;
 typeWriter.style.setProperty('--characters', text.length);
 ```
-[Try in CodePen](https://codepen.io/bvinraj/pen/vYeqepq)
+[Try in CodePen](https://codepen.io/bvinraj/pen/vYeqepq){:target="\_blank"}  
 
 [back](../)
