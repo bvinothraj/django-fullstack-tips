@@ -41,12 +41,12 @@ Let us understand how the typing effect is achieved:
 ```
 animation: typewriter 2s steps(15) infinite;
 ```
-The @keyframes rule specifies the animation code.  
+The *@keyframes* rule specifies the animation code.  
 We use an animation rule called "typewriter".  
 The animation is created by gradually changing from one set of CSS styles to another using the "from" and "to".  
-The animation duration is of 2s.  
-steps(15) is the animation-timing-function that specifies the number of intervals in the function which is 15.  
-The animation-iteration-count is infinite. So, if you want to iterate specific times you can specify an integer.  
+The *animation duration* is of 2s.  
+*steps(15)* is the *animation-timing-function* that specifies the number of intervals in the function which is 15.  
+The *animation-iteration-count* is *infinite*. So, if you want to iterate specific times you can specify an integer.  
 
 [Try in CodePen](https://codepen.io/bvinraj/pen/GRMbQdg)
 
@@ -54,7 +54,7 @@ The animation-iteration-count is infinite. So, if you want to iterate specific t
 This option requires use of Javascript to set the text to custom property.  
 Using CSS function **var** and custom property "--characters" we can create the same effect.
   
-We get a more realistic effect here as the animation-timing-function has the number of intervals set with the character length of the string.  
+We get a more realistic effect here as the *animation-timing-function* has the number of intervals set with the character length of the string.  
   
   ![Typewriting effect](../images/type3.gif)  
   
