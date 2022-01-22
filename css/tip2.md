@@ -14,7 +14,7 @@ We might need spinner at multiple places in our projects to show some loading or
 
 We will use CSS animation and transition to create this spinner.
 
-**Follow the two simple steps below:**
+**Follow the two simple steps below**
 
 * Create a div element
 
@@ -52,12 +52,11 @@ animation: rotate 1.2s linear infinite;
 ```
 
 The *@keyframes* rule specifies the animation code.
-
-We use transition property transform
+We use transition property transform.
 We use an animation rule called "rotate".
 The animation is created by gradually changing from one set of CSS styles to another using the "from" and "to".
 The *animation duration* is of 1.2s.
-linear is the *animation-timing-function* that specifies that animation will run with the same speed from start to end
+linear is the *animation-timing-function* that specifies that animation will run with the same speed from start to end.  
 The *animation-iteration-count* is *infinite*. So, if you want to iterate specific times you can specify an integer.
 
 [Try in CodePen](https://codepen.io/pardeep-thakur/pen/PoJrvBq){:target="\_blank"}.
