@@ -5,7 +5,7 @@ description: A knowledge-sharing platform
 ---
 # How to create spinner using HTML + CSS
 
-_Pardeep_
+_Pardeep_ <br />
 _Jan 21, 2022_
 
 We might need spinner at multiple places in our projects to show some loading or progress. We can create our own spinner using just HTML and CSS
