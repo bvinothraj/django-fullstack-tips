@@ -6,7 +6,9 @@ description: A knowledge-sharing platform
 # All Tips
 
 ## CSS
+
 - [How to implement typewriting effect](css/tip1.md)
+- [How to create spinner using HTML + CSS](css/tip2.md)
 
 ## JS
 
