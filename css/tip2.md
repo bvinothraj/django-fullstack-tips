@@ -51,13 +51,13 @@ transition-property: transform;
 animation: rotate 1.2s linear infinite;
 ```
 
-The *@keyframes* rule specifies the animation code.
-We use transition property transform.
-We use an animation rule called "rotate".
-The animation is created by gradually changing from one set of CSS styles to another using the "from" and "to".
-The *animation duration* is of 1.2s.
-linear is the *animation-timing-function* that specifies that animation will run with the same speed from start to end.  
-The *animation-iteration-count* is *infinite*. So, if you want to iterate specific times you can specify an integer.
+The *@keyframes* rule specifies the animation code. <br />
+We use transition property transform. <br />
+We use an animation rule called "rotate". <br />
+The animation is created by gradually changing from one set of CSS styles to another using the "from" and "to". <br />
+The *animation duration* is of 1.2s. <br />
+linear is the *animation-timing-function* that specifies that animation will run with the same speed from start to end. <br />
+The *animation-iteration-count* is *infinite*. So, if you want to iterate specific times you can specify an integer. <br />
 
 [Try in CodePen](https://codepen.io/pardeep-thakur/pen/PoJrvBq){:target="\_blank"}.
 
