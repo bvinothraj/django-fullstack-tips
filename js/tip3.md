@@ -20,6 +20,7 @@ Follow the two steps below: <br />
 
 * Add HTML
 
+```
 <div id="container">
   <!-- Password field -->
   Password: <input type="password" value="Toggle@123" id="password">
@@ -29,6 +30,8 @@ Follow the two steps below: <br />
     <input type="checkbox" onclick="togglePassword()">Show Password
   </div>
 </div>
+
+```
 
 * Add JS
 
@@ -42,6 +45,7 @@ function togglePassword() {
   }
 }
 ```
+
 Let's understand the logic above. <br />
 
 If current input type is password we will change it to input type text and if input type is text, we will change it to input type password. <br />
