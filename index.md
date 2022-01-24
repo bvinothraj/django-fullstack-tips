@@ -6,12 +6,15 @@ description: A knowledge-sharing platform
 # All Tips
 
 ## CSS
+
 - [How to implement typewriting effect](css/tip1.md)
+- [How to create spinner using HTML + CSS](css/tip2.md)
 
 ## JS
 
 - [How to check execution time of a code block?](./js/tip1.md)
 - [How to sort strings in foreign languages?](./js/tip2.md)
+- [How to toggle between password visibility](./js/tip3.md)
 
 ## Django
 
