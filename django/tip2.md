@@ -9,6 +9,8 @@ description: A knowledge-sharing platform
 _Sumit Kumar_  
 _Jan 24, 2022_
 
+Django includes a “signal dispatcher” which helps decoupled applications get notified when actions occur elsewhere in the framework. In a nutshell, signals allow certain senders to notify a set of receivers that some action has taken place. They’re especially useful when many pieces of code may be interested in the same events.
+
 Out of the box Django gives us several signals that are incredibly useful. We have the ability to do things pre and post save, init, delete, or even when a request is being processed. Let's say we have got a blog
 
 ```
@@ -40,7 +42,7 @@ def posted_blog(sender, created=None, instance=None, **kwargs):
 post_save.connect(posted_blog, sender=Post)
 ```
 
-There we go, by defining that function and using the post_init signal to connect the function to the Post model and execute it after it has been saved.
+The above function is executed after a blog post is saved.
 
 Official docs - [Django Signals](https://docs.djangoproject.com/en/4.0/topics/signals/#:~:text=Django%20includes%20a%20%E2%80%9Csignal%20dispatcher,some%20action%20has%20taken%20place.)
 
