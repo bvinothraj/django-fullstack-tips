@@ -15,6 +15,7 @@ description: A knowledge-sharing platform
 - [How to check execution time of a code block?](./js/tip1.md)
 - [How to sort strings in foreign languages?](./js/tip2.md)
 - [How to toggle between password visibility](./js/tip3.md)
+- [Group array of JavaScript objects by duplicate key-value pair/pairs](./js/tip4.md)
 
 ## Django
 
