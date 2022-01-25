@@ -32,7 +32,7 @@ Blocks, elements, and modifiers are all called BEM entities.
 Here is an example of a web site.  
 In this picture *Header*, *Main Layout* and *Footer* are blocks. The *Header* in turn consists of more blocks: *Logo*, *Search*, *Auth Block* and *Menu*.
 
-![website](..images/site2.jpg)
+![website](../images/site2.jpg)
 
 Following figure shows different blocks in the *Header* block of the website.
 
@@ -42,7 +42,7 @@ Here is an illustration of block and its elements:
 
 ![menu](../images/menu-items2.jpg)
 
-##BEM Project Structure
+## BEM Project Structure
 All BEM projects follow a similar structure in their file structure.   
 The component approach adopted in the BEM methodology also applies to projects in the file structure. The implementations of blocks, elements, and modifiers are divided into independent technology files.
 
@@ -50,11 +50,11 @@ The component approach adopted in the BEM methodology also applies to projects i
 - The block and the directory have the same name. For example, the header block is in the header/ directory
 - A block's implementation is divided into separate technology files. For example, header.css (for style) and header.js (for behavior).
 
-Here is an example of project file structure:
+Here is an example of project file structure that contains two blocks: input and popup.
 
 ![filestructure](../images/file-structure.png)
 
-##Reference
+## Reference
 https://en.bem.info/methodology/
 https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/
 https://css-tricks.com/bem-101/
