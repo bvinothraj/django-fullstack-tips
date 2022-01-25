@@ -54,9 +54,9 @@ Here is an example of project file structure that contains two blocks: input and
 
 ![filestructure](../images/file-structure.png)
 
-## Reference
-https://en.bem.info/methodology/
-https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/
-https://css-tricks.com/bem-101/
-
+## References
+https://en.bem.info/methodology/  
+https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/  
+https://css-tricks.com/bem-101/  
+  
 [back](../)
