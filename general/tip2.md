@@ -29,7 +29,7 @@ Blocks, elements, and modifiers are all called BEM entities.
 **Element**: An element is always part of a block, and you shouldn't use it separately from the block.  
 **Modifier**: An entity that defines the appearance, state, or behavior of a block or element.  
 
-Here is an example of a web site.  
+Here is an example of a website.  
 In this picture *Header*, *Main Layout* and *Footer* are blocks. The *Header* in turn consists of more blocks: *Logo*, *Search*, *Auth Block* and *Menu*.
 
 ![website](../images/site2.jpg)
@@ -55,8 +55,8 @@ Here is an example of project file structure that contains two blocks: input and
 ![filestructure](../images/file-structure.png)
 
 ## References
-https://en.bem.info/methodology/  
-https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/  
-https://css-tricks.com/bem-101/  
+[https://en.bem.info/methodology/](https://en.bem.info/methodology/)  
+[https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/](https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/)  
+[https://css-tricks.com/bem-101/](https://css-tricks.com/bem-101/)  
   
 [back](../)
