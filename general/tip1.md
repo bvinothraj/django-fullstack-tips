@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blockchain Tips
+title: Django Fullstack Tips
 description: A knowledge-sharing platform
 ---
 
