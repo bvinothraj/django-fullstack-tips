@@ -1,5 +1,5 @@
 ## How to Contribute
-- Contribute with your own tip or check the [Issues](https://github.com/bvinothraj/django-fullstack-tips/issues) and pick any of them.
+- Contribute your own tip or check the [Issues](https://github.com/bvinothraj/django-fullstack-tips/issues) and pick any of them.
 - Name the tip file maintaining the sequential order (e.g., tip1.md, tip2.md, etc.) in the respective category (e.g., js, django, etc.)
 - In the tip file, add header as follows
 ```
