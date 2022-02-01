@@ -3,7 +3,6 @@ layout: default
 title: Django Fullstack Tips
 description: A knowledge-sharing platform
 ---
-
 # All Tips
 
 ## CSS
@@ -22,6 +21,7 @@ description: A knowledge-sharing platform
 
 - [How to debug your django application using django-debug-toolbar?](./django/tip1.md)
 - [How to handle Notifications in your Django Application?](./django/tip2.md)
+- [How to find the query associated with a queryset?](./django/tip3.md)
 
 ## General
 
