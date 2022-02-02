@@ -9,6 +9,8 @@ description: A knowledge-sharing platform
 
 - [How to implement typewriting effect](css/tip1.md)
 - [How to create spinner using HTML + CSS](css/tip2.md)
+- [Css selectors priority from low to high](css/tip3.md)
+- [Difference between different box model elements](css/tip4.md)
 
 ## JS
 
