@@ -9,6 +9,8 @@ description: A knowledge-sharing platform
 _Gyanswarup Mohanty_  
 _Feb 02, 2022_  
 
+![Elements](../images/css-tip4-image1.png)
+
 Block Elements
 1- Elements visualise as blocks.
 2- Consumes the 100% parent's width.
