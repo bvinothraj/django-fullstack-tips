@@ -6,7 +6,7 @@ description: A knowledge-sharing platform
 
 # Working with environment variables in your Django application
 
-_Varun Sharma_
+_Varun Sharma_  
 _Feb 11, 2022_
 
 ### What are environment variables?
