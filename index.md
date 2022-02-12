@@ -24,6 +24,7 @@ description: A knowledge-sharing platform
 - [How to debug your django application using django-debug-toolbar?](./django/tip1.md)
 - [How to handle Notifications in your Django Application?](./django/tip2.md)
 - [How to find the query associated with a queryset?](./django/tip3.md)
+- [Working with environment variables in Django application](./django/tip4.md)
 
 ## General
 
